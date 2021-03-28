@@ -12,8 +12,6 @@ function theBeatlesPlay(musicians, instruments){
    return roles;
 }
 
-
-
 function iLoveTheBeatles(number) {
 var beatlesFan = []
 var i = 0
