@@ -16,9 +16,8 @@ function theBeatlesPlay(musicians, instruments){
 
 function iLoveTheBeatles(number) {
 var beatlesFan = []
+var i = 0
   do {
-    i = i + 1
-    return i
 
     beatlesFan.push('I love the Beatles!')
     num++
