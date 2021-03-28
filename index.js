@@ -27,5 +27,5 @@ while([i <= facts.length]){
       facts[i] = facts[i] + "!!!"
         i = i++
       }
-return excitingFacts
+return facts
 }
