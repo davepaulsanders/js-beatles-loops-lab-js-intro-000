@@ -16,8 +16,11 @@ function theBeatlesPlay(musicians, instruments){
 
 function iLoveTheBeatles(number) {
   var beatlesFan = []
+  let num = 0
+
   do {
     beatlesFan.push('I love the Beatles!')
+    i++
   } while (num < 15)
 }
 
