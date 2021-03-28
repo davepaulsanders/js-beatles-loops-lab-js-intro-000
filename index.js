@@ -22,6 +22,7 @@ function iLoveTheBeatles(number) {
     beatlesFan.push('I love the Beatles!')
     num++
   } while (num < 15)
+  return beatlesFan
 }
 
 function johnLennonFacts(facts){
