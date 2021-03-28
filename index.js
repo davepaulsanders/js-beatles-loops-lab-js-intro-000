@@ -23,8 +23,9 @@ var facts = [
 ]
 
 let i = 0
+var newFacts = []
 while(i < facts.length){
-      facts = facts[i] += '!!!'
+      newFacts.push(facts[i] += '!!!')
         i++
       }
 return facts
