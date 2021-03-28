@@ -28,7 +28,7 @@ while(i < facts.length){
       newFacts.push(facts[i] += '!!!')
         i++
       }
-return facts
+return newFacts
 }
 
 function iLoveTheBeatles(number) {
