@@ -15,6 +15,8 @@ function theBeatlesPlay(musicians, instruments){
 
 
 function iLoveTheBeatles(number) {
+  var beatlesFan = []
+  
 }
 
 function johnLennonFacts(facts){
