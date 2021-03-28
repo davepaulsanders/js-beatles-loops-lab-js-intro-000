@@ -21,10 +21,10 @@ var facts = [
   "While on tour, he enjoyed playing Monopoly",
   "Harmonica was the first instrument Lennon learned to play"
 ]
-var excitingFacts = []
+
 let i = 0
 while([i <= facts.length]){
-        excitingFacts.push(`${facts[i]}!!!`)
+      facts[i] = facts[i] + "!!!"
         i = i++
       }
 return excitingFacts
