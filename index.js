@@ -17,24 +17,15 @@ function theBeatlesPlay(musicians, instruments){
 function iLoveTheBeatles(number) {
 var beatlesFan = []
   do {
-    num = num + 1
-    return num
+    i = i + 1
+    return i
 
     beatlesFan.push('I love the Beatles!')
     num++
-  } while (num < 15)
+  } while (i <= number && number < 15)
   return beatlesFan
 }
 
-function iLoveTheBeatles(number) {
-  var arr = [];
-  var i = 0;
-  do {
-    arr.push('I love the Beatles!');
-    i++;
-  } while (i <= number && number < 15);
-  return arr;
-}
 function johnLennonFacts(facts){
 
   var newFacts = [];
