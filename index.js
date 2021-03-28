@@ -20,7 +20,7 @@ var i = 0
   do {
 
     beatlesFan.push('I love the Beatles!')
-    num++
+    i++
   } while (i <= number && number < 15)
   return beatlesFan
 }
