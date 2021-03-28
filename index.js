@@ -15,10 +15,11 @@ function theBeatlesPlay(musicians, instruments){
 
 
 function iLoveTheBeatles(number) {
-  num = num + 1
-  return num
 
   do {
+    num = num + 1
+    return num
+
     beatlesFan.push('I love the Beatles!')
     num++
   } while (num < 15)
