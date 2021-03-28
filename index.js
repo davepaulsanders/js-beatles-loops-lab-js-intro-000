@@ -14,7 +14,7 @@ function theBeatlesPlay(musicians, instruments){
 
 
 
-function iLoveTheBeatles(number) {
+function iLoveTheBeatles(num) {
 
   do {
     num = num + 1
